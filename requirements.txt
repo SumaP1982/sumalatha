@@ -1,2 +1,8 @@
 streamlit
-transformers
+openai
+pandas
+pdfplumber
+tabulate
+openpyxl
+
+
